@@ -1,1 +1,1 @@
-# HeteroplasmyDetection
+Heteroplasmy detection to study the influence of endurance training on mitochondrial function on rat MotrPac dataset. 
